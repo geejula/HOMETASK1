@@ -1,4 +1,4 @@
-gitconst a = process.argv.slice(2);
+const a = process.argv.slice(2);
 
 if (a.length < 3) 
 {
